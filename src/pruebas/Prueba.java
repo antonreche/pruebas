@@ -5,6 +5,7 @@ package pruebas;
 
 /**Esto debería estar en rama
  * Esto tambien en rama commit 2
+ * otra rama
  * @author Antonio Reche Ramal
  */
 public class Prueba {
