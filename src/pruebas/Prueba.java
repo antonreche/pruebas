@@ -4,6 +4,7 @@
 package pruebas;
 
 /**
+ * de nuevo en la rama master
  * @author Antonio Reche Ramal
  */
 public class Prueba {
