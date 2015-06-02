@@ -4,6 +4,7 @@
 package pruebas;
 
 /**
+ * Para probar git
  * @author Antonio Reche Ramal
  */
 public class Prueba {
